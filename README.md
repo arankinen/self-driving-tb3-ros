@@ -7,6 +7,8 @@ TO-DO:
 - TurtleBot 3 Burger
 - RasPi + web camera
   - raspicam_node
+    - Calibrate with A4 checkerboard
+    - [Remote PC] subscribe to /raspicam_node/compressed
   - OpenCV
 - LIDAR?
 - TensorFlow?
